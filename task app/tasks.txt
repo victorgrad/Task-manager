@@ -1,0 +1,24 @@
+3
+IDK smth
+closed
+Me,You,Someone,Otheone,
+5
+hellau der
+closed
+Me,You,
+6
+testing testing
+closed
+Me,You,Him,Her,
+2
+haha descrierere
+inprogress
+Luigi,Me,You,
+4
+IDK smth
+inprogress
+Me,You,
+1
+IDK smth
+open
+Luigi,Ben,Me,You,
